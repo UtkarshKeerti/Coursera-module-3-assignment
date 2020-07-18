@@ -1,0 +1,33 @@
+
+nav{
+    background-color:rgb(167, 161, 161);
+    border: 2px solid black;
+    border-left: none;
+    border-right: none;
+}
+.navbar-brand{
+    color: black;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    color: black;
+    cursor: default;
+}
+li{
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+h2{
+    margin-bottom: 50px;
+    text-align: center;
+}
+p{
+    padding-top: .5sem;
+}
+.cont1{
+    background-color: rgb(167, 161, 161);
+}
+html{
+    scroll-behavior: smooth;
+}
